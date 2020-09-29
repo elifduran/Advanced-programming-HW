@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.AcademicPersonel.resources
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.AdministrativePersonel.resources
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.Personel.resources
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.Properties.Resources.resources
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.csproj.GenerateResource.cache
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\bin\Debug\advancedProgramming.exe.config
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\bin\Debug\advancedProgramming.exe
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\bin\Debug\advancedProgramming.pdb
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.exe
+C:\Users\User\source\repos\advancedProgramming\advancedProgramming\obj\Debug\advancedProgramming.pdb
